@@ -1,0 +1,12 @@
+.navbar{
+    background: #fac031;
+}
+
+.navbar-nav li a{
+    color: #000000;
+    font-weight: bold;
+}
+
+.navbar-nav li a:hover{
+    color: #ffffff;
+}
