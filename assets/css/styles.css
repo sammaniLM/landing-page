@@ -126,6 +126,10 @@ header {
     padding-top: 5%;
 }
 
+.icon-vet i:hover{
+    color: #fad031 !important;
+}
+
 #ContactUs{
     background-image: linear-gradient(rgba(255,255,255,.4), rgba(255,255,255,.4)), url("../images/contact-us.jpg") !important;
     background-position: center;
@@ -156,6 +160,7 @@ header {
 footer{
     background: #fac031;
 }
+
 
 
 
